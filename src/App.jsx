@@ -1,6 +1,8 @@
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Notes from './Pages/Notes'
 import Create from './Pages/Create'
+import './index.css'
+
 
 
 function App() {

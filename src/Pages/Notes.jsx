@@ -1,8 +1,12 @@
+import { Typography } from "@mui/material"
+
 
 
 const Notes = () => {
   return (
-    <div>Notes</div>
+    <Typography variant="h1" component={'h2'}>
+      H1. Text
+    </Typography>
   )
 }
 
